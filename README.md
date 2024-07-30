@@ -15,4 +15,6 @@ Here are some of the projects included in this repository:
 3. **Mini_File_Project**: A project have basics of files and give options to user to modify ,append and read.
 4. **image_python**: By using "pillow" i make mini modifying in images.
 5. **Tasks that related to NTI**: Have mini tasks on prython.
+6. **test_num**: This related to numpy library
+   
 ...and other projects to explore.
