@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Noha Elsayed
+- 👀 I’m interested in Machine Learning and AI
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me on my email: nhya61758@gmail.com Or in Linked In : https://www.linkedin.com/in/noha-elsayed-4b448a270/
